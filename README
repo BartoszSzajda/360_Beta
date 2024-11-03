@@ -1,7 +1,6 @@
-echo "# 360_Beta" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:BartoszSzajda/360_Beta.git
-git push -u origin main
+360_Beta is a program written in python
+takes a csv file as an input and outputs combined pdf with meaningufll information
+
+
+##Input CSV file details 
+In this case the input csv file contains different 
